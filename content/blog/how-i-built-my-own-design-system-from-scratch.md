@@ -15,7 +15,7 @@ After years of starting each project with boilerplate configuration anxiety, I f
 
 I started by auditing my last few active projects, identifying structural patterns, configuration files, and reusable utilities that appeared across different services. This review revealed structural inconsistencies that I hadn't optimized before—conflicting dependency versions, repetitive environment variable loading schemas, and localized router validation rules that differed without clear purpose.
 
-Rather than creating a theoretical, overly rigid architecture upfront, I built it iteratively through a live production requirement. While developing the corporate payroll system for PT Pangestu Suryaning Family, I extracted and documented each configuration boundary as I built it, creating a living monorepo setup that evolved naturally with the platform's needs.
+Rather than creating a theoretical, overly rigid architecture upfront, I built it iteratively through a live production requirement. While developing the corporate payroll system for PT Pangestu Suryaning Famili, I extracted and documented each configuration boundary as I built it, creating a living monorepo setup that evolved naturally with the platform's needs.
 
 The core of my scaffolding template includes:
 

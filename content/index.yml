@@ -6,7 +6,7 @@ description: "I engineer high-performance web applications and intelligent AI wo
 hero:
   links:
     - label: "View GitHub"
-      to: https://github.com
+      to: https://github.com/HugoEdmoundo
       color: "neutral"
   images:
     - src: /hero/random-1.avif
@@ -38,7 +38,7 @@ experience:
     - position: "Full-Stack Engineer (Internship) at"
       date: "2025 - 2026"
       company:
-        name: PT Pangestu Suryaning Family
+        name: PT Pangestu Suryaning Famili
         logo: "i-heroicons-building-office"
         url: "#"
         color: "#3B82F6"

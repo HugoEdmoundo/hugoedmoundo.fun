@@ -35,14 +35,14 @@ about:
 experience:
   title: Work Experience
   items:
-    - position: "Full-Stack Engineer (Internship) at"
+    - position: "Full-Stack Engineer"
       date: "2025 - 2026"
       company:
-        name: PT Pangestu Suryaning Famili
+        name: PTPSF
         logo: "i-heroicons-building-office"
-        url: "#"
+        url: "https://pangestu-sf.com/"
         color: "#3B82F6"
-    - position: "AI-Enabled Python Developer Scholar at"
+    - position: "AI-Enabled Python"
       date: "2026 - Completed"
       company:
         name: Devscale.id

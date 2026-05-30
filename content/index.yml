@@ -35,13 +35,6 @@ about:
 experience:
   title: Work Experience
   items:
-    - position: "Full-Stack Engineer"
-      date: "2025 - 2026"
-      company:
-        name: PTPSF
-        logo: "i-heroicons-building-office"
-        url: "https://pangestu-sf.com/"
-        color: "#3B82F6"
     - position: "AI-Enabled Python"
       date: "2026 - Completed"
       company:
@@ -49,6 +42,13 @@ experience:
         logo: "i-heroicons-academic-cap"
         url: "https://devscale.id"
         color: "#F59E0B"
+    - position: "Full-Stack Engineer"
+      date: "2025 - 2026"
+      company:
+        name: PTPSF
+        logo: "i-heroicons-building-office"
+        url: "https://pangestu-sf.com/"
+        color: "#3B82F6"
 testimonials:
   - quote: "Hugo engineered a highly optimized corporate payroll application from the ground up. His mastery over modern full-stack systems and clean backend logic drastically improved our system reliability and processing speeds."
     author:

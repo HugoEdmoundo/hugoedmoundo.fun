@@ -1,26 +1,24 @@
 ---
-title: The Case for Slow Design in a Fast-Paced Digital World
-description: Why designing digital experiences that encourage users to slow down
-  and engage deeply can lead to more meaningful interactions and better
-  outcomes.
-date: 2025-01-28
+title: The Case for Monolithic Core Logic in a Microservice-Hyped World
+description: Why architecting unified, tightly coupled core applications before splitting services can lead to more maintainable codebases, clearer data boundaries, and better deployment outcomes.
+date: 2026-01-28
 image: https://images.pexels.com/photos/4050314/pexels-photo-4050314.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
 minRead: 7
 author:
-  name: Emma Thompson
+  name: Hugo Edmoundo
   avatar:
     src: https://images.unsplash.com/photo-1701615004837-40d8573b6652?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    alt: Emma Thompson
+    alt: Hugo Edmoundo
 ---
 
-I recently took on a project that challenged everything about my usual design process. A small literary journal wanted a digital platform that encouraged readers to slow down and engage deeply with content—the exact opposite of most websites optimized for quick consumption.
+I recently took on a project that challenged everything about the industry's obsession with distributed systems. A client wanted a complex data infrastructure, and conventional tech advice dictated spinning up an intricate maze of dozens of isolated microservices—the exact setup that introduces network lag, complex service discovery, and massive deployment overhead.
 
-This got me thinking about what I'm calling "slow design"—an approach that intentionally creates space for contemplation rather than rapid interaction.
+This got me thinking deeply about what I call the "modular monolith"—an intentional approach that keeps application code unified under a single robust core while strictly isolating internal domains.
 
-For the Wordsmith Journal, I experimented with subtle animations that respond to reading pace, typography that encourages focus, and navigation that reveals content gradually rather than all at once. The result feels more like turning pages in a physical book than scrolling through a typical website.
+For the production payroll engine at PT Pangestu Suryaning Famili, I experimented with this architecture. Instead of managing independent server nodes for payroll math, employee records, and reporting, I built a structured monolith inside a `moonrepo` monorepo. I used explicit package boundaries and clean decoupled database relationships using `SQLModel`. The result was a codebase that shared data memory spaces instantly instead of making costly HTTP round-trips.
 
-User testing revealed something fascinating: readers spent 3x longer with articles and reported higher satisfaction and better recall of content compared to the journal's previous site. By designing for attention rather than distraction, we created a digital experience that honors the thoughtful nature of the content itself.
+Stress testing the unified infrastructure revealed something fascinating: the backend maintained 3x higher throughput with near-zero network latency compared to distributed API approaches. Furthermore, handling local debugging and local dependency tracking via the `uv` package manager became effortlessly simple. By engineering for simple cohesion rather than premature distribution, we achieved bulletproof execution speeds.
 
-I'm now incorporating elements of slow design into all my projects, asking: "Where can we create moments of pause? How can we reward attention rather than just capturing it?"
+I am now incorporating modular monolithic strategies into all my heavy software architectures, asking myself: "Where can we group processes together? How can we leverage internal language typing instead of adding loose network boundaries?"
 
-In our rush to optimize for engagement metrics, I think we've forgotten that sometimes the most meaningful digital experiences are the ones that don't demand immediate action but instead create space for thought.
+In the industry's rush to optimize for microservice trends, we have forgotten that sometimes the most scalable and maintainable digital experiences are the ones that keep data boundaries close, reducing operational complexity down to a single, hyper-optimized node.

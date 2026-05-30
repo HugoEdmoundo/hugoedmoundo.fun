@@ -1,5 +1,5 @@
-title: Tech Talks & Shared Knowledge
-description: Explore presentations and workshops focused on modern full-stack architectures, agentic AI workflows, and building high-end user experiences.
+title: Talks & Workshops
+description: Explore presentations and tech sharing sessions I've given on modern full-stack architectures, Laravel enterprise systems, and agentic AI workflows.
 links:
   - label: Invite me to speak
     size: md
@@ -9,28 +9,42 @@ events:
     date: "2026-04-15"
     location: "Devscale Scholar Showcase, Online"
     url: "#"
-  - category: Workshop
+  - category: Showcase
     title: "FastAPI + SQLModel: Architecting Scalable and Type-Safe Backend Ecosystems"
     date: "2026-03-10"
     location: "Internal Tech Sharing Session"
     url: "#"
-  - category: Presentation
+  - category: Conference
     title: "From Database to Liquid Glass: Implementing High-End Aesthetics in Full-Stack Apps"
     date: "2026-02-18"
     location: "Developer Community Meetup, Indonesia"
     url: "#"
-  - category: Case Study
-    title: "Streamlining Corporate Payroll Systems: Secure Architecture and Automated Computations"
+  - category: Live talk
+    title: "Streamlining Corporate Payroll Systems: Robust Architecture and Automated Computations with Laravel"
     date: "2026-01-22"
-    location: "PT Pangestu Suryaning Famili Tech Review"
+    location: "PT Pangestu Suryaning Family Tech Review"
     url: "#"
-  - category: Presentation
+  - category: Live talk
     title: "Monorepo Management at Scale: Optimizing Workflows with Moonrepo and UV"
     date: "2025-11-05"
     location: "Full-Stack Dev Circle"
     url: "#"
-  - category: Panel
+  - category: Live talk
     title: "The Shift to Agentic Workflows: What Modern Software Engineers Need to Know"
     date: "2025-08-14"
     location: "AI & Python Developer Forum, Online"
+  - category: Podcast
+    title: "Laravel vs FastAPI: Choosing the Right Backend Framework for Your Architecture"
+    date: "2026-02-02"
+    location: "Tech Sharing Podcast (Guest)"
+    url: "#"
+  - category: Podcast
+    title: "Building Enterprise Applications as an Intern: Behind the Scenes of a Corporate Payroll App"
+    date: "2025-12-10"
+    location: "Developer Journey Podcast (Guest)"
+    url: "#"
+  - category: Podcast
+    title: "The Reality of Modern Package Managers: Migrating to UV and Scaling Monorepos"
+    date: "2025-09-25"
+    location: "Backend Engineering Podcast"
     url: "#"

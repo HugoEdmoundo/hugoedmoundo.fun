@@ -1,6 +1,6 @@
-title: High-Performance Monorepo & VPS Architecture
-description: Designed and established an efficient local-to-production monorepo environment for complex application scaling. Optimized project setups with clean boundaries, rapid dependency isolation, and root-access server configuration for direct service control.
-image: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80
-url: "#"
-tags: ["Infrastructure", "moonrepo", "uv", "VPS", "DevOps"]
+title: "chatfun — Real-Time Chat Engine & Optimisation"
+description: "Took an open-source chat project and proper modernised it. Re-engineered the backend architecture for rapid message delivery, established clean monorepo boundaries, and optimised the system for a bulletproof local-to-production deployment."
+image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+url: "https://chatfun.hugoedmoundo.fun"
+tags: ["Backend", "FastAPI", "WebSockets", "moonrepo", "uv"]
 date: "2026"

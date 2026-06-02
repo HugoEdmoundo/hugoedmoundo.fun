@@ -1,11 +1,11 @@
 seo:
-  title: "Hugo Edmoundo - Full-Stack Software Engineer"
-  description: "Welcome to my portfolio! I'm Hugo Edmoundo, a Full-Stack Software Engineer specializing in modern web ecosystems, high-performance architectures, and intelligent AI-enabled systems."
-title: "Hey, I'm Hugo Edmoundo Full-Stack Software Engineer"
-description: "I engineer high-performance web applications and intelligent AI workflows. Combining robust backend architectures with ultra-modern, glassmorphism interfaces."
+  title: "Hugo Edmoundo | Software Engineer & AI Agent Specialist"
+  description: "Software Engineer specialising in high-performance backend systems and proper agentic AI workflows. Strictly good vibes and clean code."
+title: "Cheers, I'm Hugo. I build mental backend systems & AI agents."
+description: "Specialising in robust backend architectures and intelligent autonomous workflows. Delivering high-performance code with a touch of posh."
 hero:
   links:
-    - label: "View GitHub"
+    - label: "Check the GitHub"
       to: https://github.com/HugoEdmoundo
       color: "neutral"
   images:
@@ -28,21 +28,22 @@ hero:
     - src: /hero/random-9.avif
       alt: Random Image 9
 about:
-  title: "About Me"
+  title: "The Lowdown"
   description: |
-    As a Full-Stack Software Engineer, I specialize in architecting modern web ecosystems and developing advanced AI-enabled systems. My background spans building production-ready applications, deploying secure infrastructure, and engineering intelligent automation workflows.
-    My approach blends robust backend logic with striking frontend design, utilizing a cutting-edge technical stack to build applications that are scalable, hyper-efficient, and visually captivating.
+    I’m a Software Engineer who’s absolutely obsessed with the "behind-the-scenes" magic. While most people focus on the bits they can see, I’m busy architecting mental backend ecosystems and advanced AI-enabled systems that actually scale. 
+    
+    My bread and butter is engineering intelligent automation and deploying secure, high-stakes infrastructure. I don't just write scripts; I build agentic workflows that think. It’s all about blending logic that's solid as a rock with that creativity.
 experience:
-  title: Work Experience
+  title: Career Highlights
   items:
-    - position: "AI-Enabled Python"
+    - position: "AI Agent & Python Specialist"
       date: "2026 - Completed"
       company:
         name: Devscale.id
         logo: "i-heroicons-academic-cap"
         url: "https://devscale.id"
         color: "#F59E0B"
-    - position: "Full-Stack Engineer"
+    - position: "Backend Heavyweight"
       date: "2025 - 2026"
       company:
         name: PTPSF
@@ -50,51 +51,40 @@ experience:
         url: "https://pangestu-sf.com/"
         color: "#3B82F6"
 testimonials:
-  - quote: "Hugo engineered a highly optimized corporate payroll application from the ground up. His mastery over modern full-stack systems and clean backend logic drastically improved our system reliability and processing speeds."
+  - quote: "Hugo is a legend. He engineered a corporate payroll app from scratch that’s actually reliable. His backend logic is top-tier, honestly, the system reliability is now miles ahead of where it was."
     author:
       name: 'Kak Alya'
       description: 'Project Lead & Engineering Mentor'
       avatar:
         src: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
-        srcset: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
-  - quote: "Hugo's approach to RAG architectures and autonomous workflows is incredibly advanced for his peer group. His final project, an AI-powered smart study environment, showcases a deep understanding of multi-agent orchestration and document vectoring."
+  - quote: "His work on RAG architectures is brilliant. Hugo understands multi-agent orchestration better than most. The AI-powered study environment he built? Absolute masterclass."
     author:
-      name: 'Devscale Instructor'
+      name: 'Devscale Lead'
       description: 'AI-Enabled Python Program Assessor'
       avatar:
         src: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
-        srcset: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=80&h=80&q=80 2x'
 blog:
-  title: "Latest Articles"
-  description: "Some of my recent thoughts on full-stack development, agentic AI workflows, and building modern web architectures."
+  title: "Dev Log"
+  description: "Musings on Python, why your RAG system is probably slow, and how I use AI agents to automate my life."
 faq:
-  title: Frequently Asked Questions
-  description: Answers to common questions about my technical process and architectural services.
+  title: Bits & Bobs (FAQ)
+  description: Everything you need to know about how I work.
   categories:
-    - title: Services & Technical Stack
+    - title: Specialism & Stack
       questions:
-        - label: What services do you offer?
+        - label: What’s your actual niche?
           content: |
-            I specialize in full-stack software engineering, scalable API development, and the implementation of intelligent AI workflows. This includes architecting systems with FastAPI and Next.js, building advanced Retrieval-Augmented Generation (RAG) modules, multi-agent orchestrations, creating premium glassmorphic/parallax user interfaces, and managing deployment operations over dedicated infrastructure.
-        - label: What is your primary technical stack?
+            I’m a Backend and AI Agent specialist. Period. I build scalable APIs with FastAPI, handle complex data with SQLModel, and use the `uv` package manager because life is too short for slow builds. I also spend a lot of time in the "Agentic" world—making AI do more than just chat.
+        - label: How do you handle AI?
           content: |
-            My go-to ecosystem is centered around performance, modern DX, and strict typing. On the backend, I leverage Python with FastAPI, SQLModel, and SQLite/PostgreSQL, powered by the ultra-fast `uv` package manager. On the frontend, I utilize Next.js and React. I manage multi-tiered projects using `moonrepo` monorepos to guarantee clean boundaries and fast caching.
-        - label: What kind of AI integrations do you build?
-          content: |
-            I design agentic workflows and smart context engines. My core focus lies in building RAG systems capable of parsing complex structures (like PDF documents, manuals, or datasets) to dynamically generate automated evaluations, precise summaries, or multi-turn conversational agents.
-    - title: Infrastructure & Workflow
+            It’s all about the workflows, mate. I build RAG (Retrieval-Augmented Generation) systems that parse massive datasets and multi-agent orchestrations that work together to solve actual business problems.
+    - title: Infrastructure
       questions:
-        - label: How do you handle application deployment?
+        - label: Where do you host?
           content: |
-            I rely on root-access VPS environments (such as Contabo virtual servers) to deploy, configure, and maintain production applications. I secure endpoints with robust SSL certifications, map domains cleanly, and orchestrate server resources directly for optimal resource management and performance.
-        - label: Do you build responsive and custom frontends?
-          content: |
-            Yes. While I ensure backend architectures are sound, I treat user interfaces with premium care. I specialize in building ultra-modern frontends incorporating high-fidelity "Liquid Glass" (glassmorphism) aesthetics and fluid parallax mechanics to elevate standard product presentation.
-    - title: About Me
+            I’m a fan of direct control. I usually deploy on root-access VPS environments (mostly AWS, IdCloudhost, Sumopod) so I can tweak everything to perfection. I handle the SSL, the domain mapping, and the server orchestration myself. Proper DIY.
+    - title: Personality
       questions:
-        - label: What do you enjoy most about engineering?
+        - label: What’s the vibe outside of work?
           content: |
-            I thrive on the puzzle of system optimization and translating cutting-edge tech into concrete, everyday software. Bridging the gap between automated backend processes—like AI-driven data extraction—and clean, ultra-responsive user views is what excites me the most.
-        - label: What are your interests outside of coding?
-          content: |
-            When I'm off the terminal, I'm highly passionate about high-performance tech setups and hardware. I spend time exploring custom compact mechanical keyboards and tracking down premium peripheral gear, or browsing through emerging open-source repositories.
+            I’m a proper gearhead when it comes to hardware. If it’s a compact mechanical keyboard or high-performance peripheral, I’m probably looking at it. I like my setups clean, my code elegant, and my coffee is always in my hand (: ..

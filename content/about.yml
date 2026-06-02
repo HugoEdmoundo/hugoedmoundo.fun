@@ -1,25 +1,25 @@
-title: About Me
-description: Learn more about my journey as a Full-Stack Software Engineer, my development philosophy, and my passion for crafting ultra-modern, intelligent digital experiences.
+title: "About Me"
+description: "Learn more about my journey as a Backend & AI Agent Specialist, my development philosophy, and my obsession with high-stakes infrastructure."
 content: |
-  Hi, I'm **Hugo Edmoundo**, a Full-Stack Software Engineer. I specialize in building high-performance web applications and implementing cutting-edge AI systems, focusing on creating solutions that are powerful, efficient, and visually stunning.
+  Hi, I'm **Hugo Edmoundo**, a Software Engineer specialising in robust backend systems and autonomous AI workflows. I spend my time building mental server-side applications and implementing cutting-edge context engines, focusing on creating solutions that are powerful, proper efficient, and incredibly scalable.
 
-  My journey has been fueled by a deep curiosity for both robust backend architecture and striking user interfaces. Over the course of my projects—ranging from corporate payroll systems to advanced AI applications—I've honed my skills across the entire stack. I firmly believe that the best software seamlessly marries logical back-end efficiency with a captivating front-end experience.
+  My journey has been fueled by a deep curiosity for what happens behind the terminal. Over the course of my engineering stints—ranging from complex corporate payroll apps to advanced multi-agent systems—I've honed my skills to focus strictly on data integrity, high-performance APIs, and proper automation. I firmly believe that the best software seamlessly marries logical back-end efficiency with secure, bulletproof infrastructure.
 
-  ### My Development Philosophy
+  ### My Engineering Philosophy
 
-  My engineering philosophy is rooted in **efficiency**, **scalability**, and **modular design**. Whether I'm designing complex database schemas or optimizing application performance, I always aim for clean, maintainable code. I rely on modern tools like FastAPI and Next.js to build rapid, reliable applications, and utilize streamlined workflows to keep development fast and organized.
+  My development philosophy is rooted in **extreme efficiency**, **type-safety**, and **modular architecture**. Whether I'm designing complex database schemas with SQLModel or optimising server performance, I always aim for clean, maintainable code. I rely on modern, ultra-fast tools like Python, FastAPI, and the `uv` package manager to keep builds fast and deployment times down. 
 
-  Aesthetics matter just as much as functionality. I have a strong passion for ultra-modern web interfaces, frequently implementing sleek, "Liquid Glass" (glassmorphism) aesthetics and fluid parallax elements to give digital products a high-end, premium feel.
+  While I'm a backend-first engineer, I still care about the final presentation. I make sure my APIs are architected perfectly to feed data into ultra-modern, "Liquid Glass" (glassmorphism) frontends without a single drop in latency.
 
   ### What Drives Me
 
-  What keeps me locked in is the cutting edge of technology, particularly the evolution of **Agentic Workflows** and **Retrieval-Augmented Generation (RAG)**. I love the challenge of translating complex AI concepts into practical, everyday tools—like building smart study environments that automatically extract value from documents. Turning raw code and complex data into an effortless, intelligent user experience is what excites me most.
+  What keeps me absolutely locked in is the cutting edge of autonomous tech, particularly the evolution of **Agentic Workflows** and **Retrieval-Augmented Generation (RAG)**. I love the challenge of translating complex multi-agent orchestrations into practical tools—like building smart study environments that parse massive datasets dynamically. Turning raw data and complex backend logic into an effortless, intelligent workflow is what excites me most.
 
   ### Beyond the Screen
 
-  When I'm not configuring VPS infrastructure, building AI agents, or tweaking UI layouts, you can usually find me exploring the latest mechanical keyboard tech and high-performance setups, or diving into open-source projects.
+  When I'm not configuring root-access VPS infrastructure (mostly tweaking Contabo boxes), building AI agents, or managing monorepos with `moonrepo`, you can usually find me hunting down custom compact mechanical keyboards and high-performance peripheral gear. 
 
-  Thanks for stopping by. Feel free to browse my [projects](/projects) or [get in touch](/#contact) if you'd like to collaborate!
+  Cheers for stopping by, mate. Feel free to browse my [projects](/projects) or [get in touch](/#contact) if you fancy a proper technical collaboration!
 images:
   - src: https://images.unsplash.com/photo-1744877478622-a78c7a3336f6?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
     alt: My coffee workspace

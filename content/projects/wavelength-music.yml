@@ -1,6 +1,6 @@
-title: Ultra-Modern Liquid Glass Portfolio
-description: Engineered a premium, high-fidelity personal portfolio framework utilizing ultra-modern web architectures. Leveraged responsive design principles layered with smooth parallax mechanics and high-end glassmorphic components for an elite presentation layer.
-image: https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80
+title: "hugoedm.fun — High-Performance Glassmorphic Portfolio"
+description: "Engineered a proper, high-fidelity personal ecosystem utilizing ultra-modern architectures. Layered fluid parallax mechanics and sleek 'Liquid Glass' components directly over a hyper-efficient backend, ensuring an elite presentation layer with zero latency."
+image: "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
 url: "https://hugoedm.fun"
-tags: ["Next.js", "Glassmorphism", "Parallax", "Frontend"]
+tags: ["Next.js", "FastAPI", "Infrastructure", "Glassmorphism"]
 date: "2026"

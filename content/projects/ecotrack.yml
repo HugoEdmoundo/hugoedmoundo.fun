@@ -1,6 +1,6 @@
-title: Smart Study Room AI Environment
-description: Developed an intelligent, RAG-driven learning platform that automatically processes uploaded documents to generate targeted evaluations, structured quizzes, and real-time contextual summaries for student performance tracking.
-image: https://images.unsplash.com/photo-1613858749733-3a3e456e3d9e?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+title: "Smart Study Room — Intelligent RAG-Driven Context Engine"
+description: "Architected a proper, multi-agent learning platform that dynamically parses complex unstructured datasets. Engineered advanced RAG pipelines to automatically generate targeted evaluations, multi-turn quizzes, and real-time contextual summaries without losing context window state."
+image: "https://images.unsplash.com/photo-1613858749733-3a3e456e3d9e?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 url: "https://luminaprep.my.id/"
-tags: ["Python", "FastAPI", "Next.js", "RAG", "AI Agents"]
+tags: ["Python", "FastAPI", "RAG Pipeline", "AI Agents", "SQLModel"]
 date: "2026"

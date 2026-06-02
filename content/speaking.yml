@@ -1,11 +1,11 @@
-title: Talks & Workshops
-description: Explore presentations and tech sharing sessions I've given on modern full-stack architectures, Laravel enterprise systems, and agentic AI workflows.
+title: "Tech Showcases & Reviews"
+description: "A collection of proper technical reviews, internal tech sharing sessions, and project showcases I've delivered during my development stints."
 links:
-  - label: Invite me to speak
+  - label: "Check my work history"
     size: md
 events:
   - category: Showcase
-    title: "Orchestrating Intelligent Spaces: Building RAG-Driven Study Environments"
+    title: "Orchestrating Intelligent Spaces: Building Proper RAG-Driven Study Environments"
     date: "2026-04-15"
     location: "Devscale Scholar Showcase, Online"
     url: "#"
@@ -14,37 +14,13 @@ events:
     date: "2026-03-10"
     location: "Internal Tech Sharing Session"
     url: "#"
-  - category: Conference
-    title: "From Database to Liquid Glass: Implementing High-End Aesthetics in Full-Stack Apps"
-    date: "2026-02-18"
-    location: "Developer Community Meetup, Indonesia"
-    url: "#"
-  - category: Live talk
-    title: "Streamlining Corporate Payroll Systems: Robust Architecture and Automated Computations with Laravel"
+  - category: Tech Review
+    title: "Streamlining Corporate Payroll Systems: Mental Architecture and Automated Computations"
     date: "2026-01-22"
-    location: "PT Pangestu Suryaning Family Tech Review"
+    location: "PT Pangestu Suryaning Famili Internal Review"
     url: "#"
-  - category: Live talk
-    title: "Monorepo Management at Scale: Optimizing Workflows with Moonrepo and UV"
-    date: "2025-11-05"
-    location: "Full-Stack Dev Circle"
-    url: "#"
-  - category: Live talk
-    title: "The Shift to Agentic Workflows: What Modern Software Engineers Need to Know"
+  - category: Tech Review
+    title: "The Shift to Agentic Workflows: Implementing Multi-Agent State Management"
     date: "2025-08-14"
-    location: "AI & Python Developer Forum, Online"
-  - category: Podcast
-    title: "Laravel vs FastAPI: Choosing the Right Backend Framework for Your Architecture"
-    date: "2026-02-02"
-    location: "Tech Sharing Podcast (Guest)"
-    url: "#"
-  - category: Podcast
-    title: "Building Enterprise Applications as an Intern: Behind the Scenes of a Corporate Payroll App"
-    date: "2025-12-10"
-    location: "Developer Journey Podcast (Guest)"
-    url: "#"
-  - category: Podcast
-    title: "The Reality of Modern Package Managers: Migrating to UV and Scaling Monorepos"
-    date: "2025-09-25"
-    location: "Backend Engineering Podcast"
+    location: "Internal R&D Session"
     url: "#"

@@ -1,27 +1,27 @@
 title: "About Me"
-description: "Learn more about my journey as a Backend & AI Agent Specialist, my development philosophy, and my obsession with high-stakes infrastructure."
+description: "Learn more about my journey as a Backend & AI Agent Specialist, my development philosophy, and my approach to building reliable infrastructure."
 content: |
-  Hi, I'm **Hugo Edmoundo**, a Software Engineer specialising in robust backend systems and autonomous AI workflows. I spend my time building mental server-side applications and implementing cutting-edge context engines, focusing on creating solutions that are powerful, proper efficient, and incredibly scalable.
+  Hi, I'm **Hugo Edmoundo**, a Software Engineer focused on backend systems and autonomous AI workflows. I build server-side applications and context engines — things that need to be reliable, efficient, and actually scale without falling apart.
 
-  My journey has been fueled by a deep curiosity for what happens behind the terminal. Over the course of my engineering stints—ranging from complex corporate payroll apps to advanced multi-agent systems—I've honed my skills to focus strictly on data integrity, high-performance APIs, and proper automation. I firmly believe that the best software seamlessly marries logical back-end efficiency with secure, bulletproof infrastructure.
+  I've worked on everything from corporate payroll systems to multi-agent AI platforms. Along the way I've learned to care deeply about data integrity, API performance, and automation done right. Good software is just boring infrastructure that never breaks.
 
   ### My Engineering Philosophy
 
-  My development philosophy is rooted in **extreme efficiency**, **type-safety**, and **modular architecture**. Whether I'm designing complex database schemas with SQLModel or optimising server performance, I always aim for clean, maintainable code. I rely on modern, ultra-fast tools like Python, FastAPI, and the `uv` package manager to keep builds fast and deployment times down. 
+  I keep things **type-safe**, **modular**, and **efficient**. Whether it's designing database schemas with SQLModel or optimising server performance, I aim for code that's easy to maintain and hard to break. I use Python, FastAPI, and the `uv` package manager because they're fast and get out of my way.
 
-  While I'm a backend-first engineer, I still care about the final presentation. I make sure my APIs are architected perfectly to feed data into ultra-modern, "Liquid Glass" (glassmorphism) frontends without a single drop in latency.
+  I'm backend-first, but I make sure my APIs play nice with the frontend — whatever style that frontend uses. Clean data in, clean data out.
 
   ### What Drives Me
 
-  What keeps me absolutely locked in is the cutting edge of autonomous tech, particularly the evolution of **Agentic Workflows** and **Retrieval-Augmented Generation (RAG)**. I love the challenge of translating complex multi-agent orchestrations into practical tools—like building smart study environments that parse massive datasets dynamically. Turning raw data and complex backend logic into an effortless, intelligent workflow is what excites me most.
+  I'm into **Agentic Workflows** and **Retrieval-Augmented Generation (RAG)** — specifically the challenge of making multi-agent systems actually useful in production. Building tools that parse large datasets and turn complex backend logic into something that just works is what keeps me going.
 
   ### Beyond the Screen
 
-  When I'm not configuring root-access VPS infrastructure (mostly tweaking Contabo boxes), building AI agents, or managing monorepos with `moonrepo`, you can usually find me hunting down custom compact mechanical keyboards and high-performance peripheral gear. 
+  When I'm not provisioning VPS instances (mostly Contabo), building AI agents, or wrangling monorepos with `moonrepo`, I'm usually deep in the mechanical keyboard rabbit hole — compact builds, custom peripherals, that sort of thing.
 
-  Cheers for stopping by, mate. Feel free to browse my [projects](/projects) or [get in touch](/#contact) if you fancy a proper technical collaboration!
-images:
-  - src: https://images.unsplash.com/photo-1744877478622-a78c7a3336f6?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    alt: My coffee workspace
-  - src: https://images.unsplash.com/photo-1744429523595-2c06b8611242?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-    alt: My trip to Tokyo
+  Feel free to check my [projects](/projects) or [get in touch](/#contact) if you want to talk tech or collaborate on something.
+# images:
+#   - src: https://images.unsplash.com/photo-1744877478622-a78c7a3336f6?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+#     alt: My coffee workspace
+#   - src: https://images.unsplash.com/photo-1744429523595-2c06b8611242?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+#     alt: My trip to Tokyo

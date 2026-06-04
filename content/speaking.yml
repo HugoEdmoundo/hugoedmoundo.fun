@@ -1,11 +1,11 @@
 title: "Tech Showcases & Reviews"
-description: "A collection of proper technical reviews, internal tech sharing sessions, and project showcases I've delivered during my development stints."
+description: "A collection of technical reviews, internal tech sharing sessions, and project showcases I've delivered during my development stints."
 links:
   - label: "Check my work history"
     size: md
 events:
   - category: Showcase
-    title: "Orchestrating Intelligent Spaces: Building Proper RAG-Driven Study Environments"
+    title: "Orchestrating Intelligent Spaces: Building RAG-Driven Study Environments"
     date: "2026-04-15"
     location: "Devscale Scholar Showcase, Online"
     url: "#"
@@ -15,7 +15,7 @@ events:
     location: "Internal Tech Sharing Session"
     url: "#"
   - category: Tech Review
-    title: "Streamlining Corporate Payroll Systems: Mental Architecture and Automated Computations"
+    title: "Streamlining Corporate Payroll Systems: Architecture and Automated Computations"
     date: "2026-01-22"
     location: "PT Pangestu Suryaning Famili Internal Review"
     url: "#"

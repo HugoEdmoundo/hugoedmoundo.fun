@@ -1,5 +1,5 @@
 title: "Smart Study Room — Intelligent RAG-Driven Context Engine"
-description: "Architected a proper, multi-agent learning platform that dynamically parses complex unstructured datasets. Engineered advanced RAG pipelines to automatically generate targeted evaluations, multi-turn quizzes, and real-time contextual summaries without losing context window state."
+description: "Architected a multi-agent learning platform that dynamically parses complex unstructured datasets. Built RAG pipelines to automatically generate evaluations, multi-turn quizzes, and real-time contextual summaries."
 image: "https://images.unsplash.com/photo-1613858749733-3a3e456e3d9e?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 url: "https://luminaprep.my.id/"
 tags: ["Python", "FastAPI", "RAG Pipeline", "AI Agents", "SQLModel"]

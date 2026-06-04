@@ -1,8 +1,8 @@
 seo:
   title: "Hugo Edmoundo | Software Engineer & AI Agent Specialist"
-  description: "Software Engineer specialising in high-performance backend systems and proper agentic AI workflows. Strictly good vibes and clean code."
-title: "Cheers, I'm Hugo. I build mental backend systems & AI agents."
-description: "Specialising in robust backend architectures and intelligent autonomous workflows. Delivering high-performance code with a touch of posh."
+  description: "Software Engineer specialising in high-performance backend systems and agentic AI workflows."
+title: "I'm Hugo — I build backend systems & AI agents."
+description: "Specialising in robust backend architectures and intelligent autonomous workflows. Delivering high-performance code."
 hero:
   links:
     - label: "Check the GitHub"
@@ -30,9 +30,9 @@ hero:
 about:
   title: "The Lowdown"
   description: |
-    I’m a Software Engineer who’s absolutely obsessed with the "behind-the-scenes" magic. While most people focus on the bits they can see, I’m busy architecting mental backend ecosystems and advanced AI-enabled systems that actually scale. 
-    
-    My bread and butter is engineering intelligent automation and deploying secure, high-stakes infrastructure. I don't just write scripts; I build agentic workflows that think. It’s all about blending logic that's solid as a rock with that creativity.
+    I'm a Software Engineer who cares about what happens behind the scenes. While most people focus on the UI, I'm the one architecting backend systems and AI workflows that actually hold up under load.
+
+    I build automation that's reliable and infrastructure that doesn't keep you up at night. It's not just about writing code — it's about building systems you can trust.
 experience:
   title: Career Highlights
   items:
@@ -50,41 +50,28 @@ experience:
         logo: "i-heroicons-building-office"
         url: "https://pangestu-sf.com/"
         color: "#3B82F6"
-testimonials:
-  - quote: "Hugo is a legend. He engineered a corporate payroll app from scratch that’s actually reliable. His backend logic is top-tier, honestly, the system reliability is now miles ahead of where it was."
-    author:
-      name: 'Kak Alya'
-      description: 'Project Lead & Engineering Mentor'
-      avatar:
-        src: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
-  - quote: "His work on RAG architectures is brilliant. Hugo understands multi-agent orchestration better than most. The AI-powered study environment he built? Absolute masterclass."
-    author:
-      name: 'Devscale Lead'
-      description: 'AI-Enabled Python Program Assessor'
-      avatar:
-        src: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=40&h=40&q=80'
 blog:
   title: "Dev Log"
   description: "Musings on Python, why your RAG system is probably slow, and how I use AI agents to automate my life."
 faq:
-  title: Bits & Bobs (FAQ)
+  title: "Bits & Bobs (FAQ)"
   description: Everything you need to know about how I work.
   categories:
     - title: Specialism & Stack
       questions:
-        - label: What’s your actual niche?
+        - label: What's your actual niche?
           content: |
-            I’m a Backend and AI Agent specialist. Period. I build scalable APIs with FastAPI, handle complex data with SQLModel, and use the `uv` package manager because life is too short for slow builds. I also spend a lot of time in the "Agentic" world—making AI do more than just chat.
+            Backend and AI Agent development. I build scalable APIs with FastAPI, handle data with SQLModel, and use `uv` for package management. A good chunk of my time goes into building agentic systems — making AI do more than just chat.
         - label: How do you handle AI?
           content: |
-            It’s all about the workflows, mate. I build RAG (Retrieval-Augmented Generation) systems that parse massive datasets and multi-agent orchestrations that work together to solve actual business problems.
+            It's all about the workflows. I build RAG (Retrieval-Augmented Generation) systems that parse large datasets and multi-agent orchestrations that solve real business problems.
     - title: Infrastructure
       questions:
         - label: Where do you host?
           content: |
-            I’m a fan of direct control. I usually deploy on root-access VPS environments (mostly AWS, IdCloudhost, Sumopod) so I can tweak everything to perfection. I handle the SSL, the domain mapping, and the server orchestration myself. Proper DIY.
+            I prefer direct control. I deploy on root-access VPS environments (mostly AWS, IdCloudhost, Sumopod) so I can tweak things as needed. I handle the SSL, domain mapping, and server orchestration myself.
     - title: Personality
       questions:
-        - label: What’s the vibe outside of work?
+        - label: What's the vibe outside of work?
           content: |
-            I’m a proper gearhead when it comes to hardware. If it’s a compact mechanical keyboard or high-performance peripheral, I’m probably looking at it. I like my setups clean, my code elegant, and my coffee is always in my hand (: ..
+            I'm into mechanical keyboards and custom peripherals. If it's a compact build or high-performance gear, I'm probably looking at it. Clean setups, clean code, and coffee within arm's reach.
